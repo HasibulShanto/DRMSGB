@@ -1,0 +1,46 @@
+.fixed-top2 {
+    position: fixed;
+    top: 50px;
+    right: 0;
+    left: 0;
+    z-index: 2030;
+    background-color:  #E2D9D7;
+}
+
+.navbar-brand { 
+    color: #fff;
+}
+.navbar-brand:hover { 
+    color: #fff;
+}
+
+.nav-link { 
+    color: #fff;
+}
+.nav-link:hover { 
+    color: yellow;
+}
+
+.alert { 
+ 	margin-bottom: 0rem; 
+}	
+.routine_print{
+	margin-bottom: 10px;
+}
+
+.fa-file-pdf{color: #ff9900;}
+.fa-print{
+	color: #ff4d4d;
+}
+.hero_txt {
+    padding-bottom: 15px;
+}
+
+.card { 
+    /* display: flex; */ 
+    margin-top: 10px;
+    border: 2px solid rgba(0,0,0,.125);
+}
+.filter_top {
+    padding-bottom: 30px;
+}
